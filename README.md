@@ -40,10 +40,10 @@ A simple product validation tool that generates **mandatory and recommended qual
 ## 📸 Screenshots
 
 ### 1. First Screenshot
-![One](images/one.png)
+![One](one.png)
 
 ### 2. Second Screenshot
-![Two](images/two.png)
+![Two](two.png)
 
 ### 3. Third Screenshot
-![Three](images/three.png)
+![Three](three.png)
